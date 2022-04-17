@@ -1,0 +1,1 @@
+SELECT * FROM bankamatik_otomasyonu.admins;
